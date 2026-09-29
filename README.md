@@ -101,21 +101,29 @@ A weather application built using React.
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanson0704&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hanson0704&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanson0704&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanson0704&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=hanson0704&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hanson0704&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-[![Hanson's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hanson0704&theme=tokyo-night)](https://github.com/hanson0704)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanson0704&theme=tokyo-night" alt="Hanson's GitHub Activity Graph" />
+</p>
 
 ---
 
